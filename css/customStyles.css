@@ -1,0 +1,12 @@
+.bg-primary{
+    background-color: rgb(134, 110, 78) !important;
+    /* bg stands for background, & !important means it overrides whatever else is/was said til new 1 comes up */
+}
+
+a{
+    color: rgb(134, 110, 78);
+}
+
+body{
+    background-color: bisque;
+}
